@@ -1,0 +1,27 @@
+{
+    "header": {
+        "logo": "Rsqv Dev Pt-Br",
+        "menu": ["Início", "Sobre", "Habilidades", "Projetos", "Contato"]
+    },
+    "description": {
+        "greet": "Olá, me chamo",
+        "Smalldescription": "Sou desenvolvedor Front e Backend apaixonado pela criação de soluções interativas e funcionais para web."
+    },
+    "about": {
+        "about": "Sobre mim",
+        "information": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, eaque perspiciatis enim quis soluta consequuntur eum aspernatur suscipit sapiente officiis ipsam. Harum autem nesciunt, nisi quis aut eveniet deleniti eaque! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur, at adipisci soluta odio quae vel magnam autem maiores accusamus? Mollitia fugiat ipsam tempore distinctio modi, sequi natus architecto perspiciatis quam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur enim doloremque quisquam, suscipit modi nostrum nam, architecto esse quaerat maiores id ad ullam quis eos, sapiente omnis sequi repellat provident? </p><br/><ul><li> <strong>Experiência técnica sólida:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde asperiores soluta, est quidem eligendi fugit voluptas, ab aut enim placeat facilis fuga nesciunt dolor architecto, officiis autem nulla aliquid eaque!</li> <li> <strong>Adaptabilidade:</strong> Esse desenvolvedor está sempre disposto a aprender novas tecnologias e ferramentas, mantendo-se atualizado sobre as tendências do setor. Sua capacidade de se adaptar rapidamente a novos ambientes e metodologias é crucial para enfrentar novos desafios.</li><li<strong>Criatividade e pensamento inovador:</strong> Ao buscar novos desafios, esse profissional tem uma mente criativa e pensa fora da caixa para propor soluções originais e eficientes para problemas complexos. Ele vê os desafios como oportunidades para inovar e melhorar o status quo. </li><li> <strong>Trabalho em equipe:</strong> Ser capaz de colaborar efetivamente com outros membros da equipe é fundamental. Esse desenvolvedor é aberto a feedback, compartilha seu conhecimento com os colegas e está disposto a contribuir para o sucesso coletivo do projeto. </li> <li> <strong>Boas práticas de desenvolvimento:</strong> Um bom desenvolvedor de sistemas web segue as melhores práticas de codificação, como escrever código limpo, modular e bem documentado. Além disso, ele compreende a importância dos testes automatizados para garantir a qualidade do software. </li> <li> <strong>Resolução de problemas:</strong> Diante de desafios complexos, esse profissional mantém a calma e aborda os problemas de maneira sistemática. Ele é capaz de analisar, depurar e encontrar soluções eficazes para problemas técnicos e de negócios. </li> <li><strong>Orientação para o usuário:</strong> Ao desenvolver sistemas web, o foco no usuário é essencial. Um bom desenvolvedor considera a experiência do usuário em todas as etapas do processo, buscando criar interfaces amigáveis e funcionais. </li> <li> <strong>Autonomia:</strong> Esse profissional é proativo e capaz de trabalhar de forma independente, assumindo a responsabilidade por suas tarefas e entregas. Ele está sempre em busca de oportunidades para contribuir além de suas atribuições imediatas. </li> <li> <strong>Paixão pela tecnologia:</strong> Acima de tudo, um bom desenvolvedor de sistemas web é apaixonado pela tecnologia e pelo processo de criação. Essa paixão impulsiona seu desejo de enfrentar novos desafios, aprender continuamente e entregar soluções excepcionais. </li> </ul>"    
+    },
+    "skills": {
+        "skills": "Habilidades"
+    },
+    "projects": {
+        "works":" Projetos"
+    },
+    "contact": {
+        "t_contact": "Contate-me",
+        "send_email": "Enviar E-mail",
+        "t_form": "Formulário de contato",
+        "b_submit": "Enviar"
+
+    }
+}

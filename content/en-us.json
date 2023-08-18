@@ -1,0 +1,28 @@
+{
+    "header": {
+        "logo": "Rsqv Dev En-Us",
+        "menu": ["Home", "About", "Skills", "Projects", "Contact"]
+    },
+    "description": {
+        "greet": "Hello, my name is",
+        "Smalldescription": "I'm a Front and Backend developer passionate about creating interactive and functional solutions for the web."
+    },
+    "about": {
+        "about": "About me",
+        "information": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos, eaque perspiciatis enim quis soluta consequuntur eum aspernatur suscipit sapiente officiis ipsam. Harum autem nesciunt, nisi quis aut eveniet deleniti eaque! Mollitia fugiat ipsam tempore distinctio modi, sequi natus architecto perspiciatis quam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur enim doloremque quisquam, suscipit modi nostrum nam, architecto esse quaerat Maiores id ad ullam qui eos, sapiente omnis sequi repellat provident? </p><br/><ul><li> <strong>Solid technical experience:</strong> Lorem ipsum dolor sit amet consectetur adipisicing elit. est quidem eligendi fugit voluptas, ab aut enim placeat facilis fuga nesciunt dolor architecto, officiis autem nulla aliquid eaque!</li> <li> <strong>Adaptability:</strong> This developer is always willing to learn new technologies and tools, keeping up to date on industry trends. Their ability to adapt quickly to new environments and methodologies is crucial to face new challenges.</li><li<strong>Creativity and innovative thinking:</strong> When looking for new challenges, this professional has a creative mind and thinks outside out of the box to propose original and efficient solutions to complex problems. He sees challenges as opportunities to innovate and improve the status quo. </li><li> <strong>Teamwork:</strong> Being able to collaborate effectively with other team members is critical. This developer is open to feedback, shares his knowledge with peers, and is willing to contribute to the collective success of the project. </li> <li> <strong>Good development practices:</strong> A good web systems developer follows best coding practices, such as writing clean, modular, and well-documented code. In addition, he understands the importance of automated testing to ensure software quality. </li> <li> <strong>Troubleshooting:</strong> In the face of complex challenges, this professional remains calm and addresses problems systematically. He is capable of analyzing, debugging and finding effective solutions to technical and business problems. </li> <li><strong>User orientation:</strong> When developing web systems, user focus is essential. A good developer considers the user experience at all stages of the process, seeking to create user-friendly and functional interfaces. </li> <li> <strong>Autonomy:</strong> This professional is proactive and able to work independently, taking responsibility for their tasks and deliveries. He is always looking for opportunities to contribute beyond his immediate duties. </li> <li> <strong>Passion for technology:</strong> Above all, a good web systems developer is passionate about technology and the creation process. This passion drives their desire to face new challenges, learn continuously and deliver exceptional solutions. </li> </ul>" 
+    },
+    "skills": {
+        "skills": "Skills"
+
+    },
+    "projects": {
+        "works":"Works"
+    },
+    "contact": {
+        "t_contact": "Contact-me",
+        "send_email": "Send Email",
+        "t_form": "Invite me ",
+        "b_submit": "Send"
+
+    }
+}
