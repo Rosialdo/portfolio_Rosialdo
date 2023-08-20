@@ -34,7 +34,7 @@ function load() {
         logo.innerHTML = data.header.logo;
         nav_ul.innerHTML = "";
         for(var i = 0; i < data.header.menu.length; i++) {
-            nav_ul.innerHTML += `<li><a class="nav_ul_li_a" href="/">${data.header.menu[i]}</a></li>`;
+            nav_ul.innerHTML += `<li><a class="nav_ul_li_a" href="#">${data.header.menu[i]}</a></li>`;
         }
     //-----greeding------
         greeting.innerHTML = data.description.greet;
