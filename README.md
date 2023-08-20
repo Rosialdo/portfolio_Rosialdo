@@ -1,2 +1,3 @@
-# portfolio_Rosialdo
- Atividade referente a disciplina DCC704 ARQUITETURA E TECNOLOGIAS DE SISTEMAS WEB  da UFRR 
+# Site portifólio com HTML, CSS E JS
+<br>
+ Atividade referente a disciplina DCC704 Arquitetura e Tecnologias de Sistemas WEB da UFRR pelo semestre 2023.2 
